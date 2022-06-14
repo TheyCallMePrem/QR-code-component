@@ -60,7 +60,7 @@ I'd like to integrate this in a future project with a QR code that links to my g
 
 ## Author
 
-- Website - [Prem D](https://github.com/TheyCallMePrem)
+- Github - [Prem D](https://github.com/TheyCallMePrem)
 - Frontend Mentor - [@TheyCallMePrem](https://www.frontendmentor.io/profile/TheyCallMePrem)
 - Twitter - [@TheyCallMe_Prem](https://twitter.com/TheyCallMe_Prem)
 
