@@ -15,7 +15,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -57,7 +56,7 @@ I'd like to integrate this in a future project with a QR code that links to my g
 
 - [delftstack](https://www.delftstack.com/howto/css/resize-image-css/#:~:text=%3A%20300px%3B%20%7D-,Use%20the%20auto%20Value%20for%20Width%20and%20the%20max%2Dheight,the%20height%20of%20the%20container.)
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
 
 ## Author
 
